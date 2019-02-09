@@ -1,7 +1,7 @@
 html,
 body {
     height: 100%;
-    background-image: url("./assets/images/background_img.jpg");
+    background-image: url("../images/background_img.jpg");
     background-color: #cccccc;
     background-size: cover;
     margin-bottom: 0px; /* Margin bottom by footer height */
